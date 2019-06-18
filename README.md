@@ -1,5 +1,5 @@
 # ContosoUniversity
-MVC 5 web app using Entity Framework 6, with basic CRUD functionality.
+MVC 5 web app using Entity Framework 6, with basic CRUD functionality, sorting, filtering and paging.
 
 ## Achieved Objectives
 
@@ -18,6 +18,10 @@ MVC 5 web app using Entity Framework 6, with basic CRUD functionality.
 * Updated the Delete page
 * Closed database connections
 * Handled transactions
+* Add column sort links
+* Add a Search box
+* Add paging
+* Create an About page
 
 ## Authors
 
@@ -28,3 +32,4 @@ MVC 5 web app using Entity Framework 6, with basic CRUD functionality.
 * Microsoft tutorials 
  1. Tutorial: Get Started with Entity Framework 6 Code First using MVC 5. https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
  2. Tutorial: Implement CRUD Functionality with the Entity Framework in ASP.NET MVC. https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/implementing-basic-crud-functionality-with-the-entity-framework-in-asp-net-mvc-application
+ 3. Tutorial: Add sorting, filtering, and paging with the Entity Framework in an ASP.NET MVC application. https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/sorting-filtering-and-paging-with-the-entity-framework-in-an-asp-net-mvc-application
